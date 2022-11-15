@@ -1,0 +1,50 @@
+name: Automation Test
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron:  '0 22 * * 0,1,2,3,4'
+
+jobs:
+  running-automation-test:
+    runs-on: macos-latest
+    strategy:
+      matrix:
+        api-level: [29]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up JDK 1.8
+        uses: actions/setup-java@v3
+        with:
+          java-version: '8'
+          distribution: 'temurin'
+          cache: maven
+
+      - name: setup chrome
+        uses: browser-actions/setup-chrome@latest
+
+      - name: Setup firefox
+        uses: browser-actions/setup-firefox@latest
+
+      - name: Setup appium
+        run:  |
+          npm install -g appium@next
+          appium driver install xcuitest
+          appium driver install uiautomator2
+      #        appium &>/dev/null &
+
+      - uses: futureware-tech/simulator-action@v2
+        with:
+          model: 'iPhone 12'
+
+      - name: Run Tests
+        uses: reactivecircus/android-emulator-runner@v2 # install and create the Emulator
+        with:
+          api-level: ${{ matrix.api-level }}
+          avd-name: Android_Emulator
+          arch: x86_64
+          profile: pixel_4
+          target: google_apis
+          script: mvn clean test
+
