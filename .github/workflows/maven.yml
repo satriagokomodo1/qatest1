@@ -40,7 +40,7 @@ jobs:
         with:
           model: 'iPhone 13'
 
-      - name: Setup AVD
+      - name: Setup AVD and run test
         uses: reactivecircus/android-emulator-runner@v2 # install and create the Emulator
         with:
           api-level: ${{ matrix.api-level }}
@@ -48,9 +48,5 @@ jobs:
           arch: x86_64
           profile: pixel_4
           target: google_apis
-          script: echo "AVD created"
-
-      - name: Run test
-        run: |
-          mvn clean test
+          script: mvn clean test
 
