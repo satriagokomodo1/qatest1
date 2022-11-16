@@ -91,6 +91,7 @@ public class MobileBuyerBaseMethod {
                 case "Android":
                     desiredCapabilities.setCapability(AndroidMobileCapabilityType.IS_HEADLESS, GetAndroidHeadless);
                     desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, GetAndroidAutomationName);
+                    desiredCapabilities.setCapability(AndroidMobileCapabilityType.ANDROID_INSTALL_TIMEOUT, "600000");
                     File androidParentDirectoryPath = new File(GetAndroidAppLocation);
                     File androidAppUrl = new File(androidParentDirectoryPath, GetAndroidBuyerAppName);
                     desiredCapabilities.setCapability(MobileCapabilityType.APP, androidAppUrl.getAbsolutePath());
