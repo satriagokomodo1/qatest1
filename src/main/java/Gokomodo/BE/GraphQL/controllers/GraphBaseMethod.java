@@ -1,13 +1,13 @@
 package Gokomodo.BE.GraphQL.controllers;
 
-import Gokomodo.BE.Rest.controllers.RestBaseMethod;
+import Gokomodo.BE.Rest.controllers.MainBaseMethod;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import org.json.JSONObject;
 
 import static org.hamcrest.Matchers.equalTo;
 
-public class GraphBaseMethod extends RestBaseMethod {
+public class GraphBaseMethod extends MainBaseMethod {
 
     /**
      * GraphqlTOJson

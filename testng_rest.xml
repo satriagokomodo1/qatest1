@@ -5,8 +5,9 @@
 
     <test name="Test Rest API Gokomodo">
         <classes>
-            <class name="Gokomodo.BE.Rest.tests.PartnerTest"/>
-            <class name="Gokomodo.BE.Rest.tests.ProductTest"/>
+            <class name="Gokomodo.BE.Retail.Rest.tests.PartnerTest"/>
+            <class name="Gokomodo.BE.Retail.Rest.tests.ProductTest"/>
+            <class name="Gokomodo.BE.Integration.Rest.tests.LoginTest"/>
         </classes>
     </test> <!-- Test -->
 

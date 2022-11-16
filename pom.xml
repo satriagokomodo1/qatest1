@@ -30,6 +30,7 @@
 		<faker.version>1.0.2</faker.version>
 		<lombok.version>1.18.20</lombok.version>
 		<ashot.version>1.5.4</ashot.version>
+		<suiteXmlFile></suiteXmlFile>
 	</properties>
 
 	<!-- All the Dependencies Added Here -->
@@ -407,7 +408,7 @@
 				<version>${maven.surefire.version}</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
 					</suiteXmlFiles>
 					<argLine>-javaagent:${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar</argLine>
 				</configuration>

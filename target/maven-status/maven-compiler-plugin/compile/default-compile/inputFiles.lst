@@ -28,7 +28,6 @@
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Buyer/controllers/BuyerExcelDataProvider.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Assertions.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/Integration/TestRailAPI.java
-/Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/BE/Rest/controllers/RestBaseMethod.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Admin/utils/MobileWebAdminAllureAttachments.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminApplicationConfigReader.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminDriverFactory.java
@@ -47,6 +46,7 @@
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Mobile/Seller/controllers/MobileSellerInitMethod.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Mobile/Buyer/utils/MobileBuyerAllureAttachments.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Admin/controllers/AdminWebDriverFactory.java
+/Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/BE/Rest/controllers/IntegrationBaseMethod.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Seller/listeners/MobileWebSellerAllureListener.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminW3cActions.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Admin/utils/AdminExcelUtils.java
@@ -87,6 +87,8 @@
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Seller/controllers/ApplicationConfigReader.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Buyer/controllers/MobileWebBuyerDriverFactory.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Mobile/Seller/controllers/MobileSellerBaseMethod.java
+/Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/BE/Rest/controllers/RetailBaseMethod.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Admin/utils/AdminAllureAttachments.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminBaseMethod.java
 /Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/FE/Web/Admin/utils/AdminRandomGenerator.java
+/Users/gk2210m1s/QA-Automation/src/main/java/Gokomodo/BE/Rest/controllers/MainBaseMethod.java

@@ -25,6 +25,7 @@ Gokomodo/BE/GraphQL/controllers/GraphBaseMethod.class
 Gokomodo/BE/gRPC/controllers/RpcBaseMethod.class
 Gokomodo/FE/MobileWeb/Buyer/controllers/MobileWebBuyerApplicationConfigReader.class
 Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminBaseMethod$1.class
+Gokomodo/BE/Rest/controllers/RetailBaseMethod.class
 Gokomodo/FE/Web/Buyer/listeners/BuyerAllureListener.class
 Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminInitMethod.class
 Gokomodo/FE/MobileWeb/Admin/controllers/MobileWebAdminW3cActions.class
@@ -49,6 +50,7 @@ Gokomodo/FE/Web/Buyer/utils/BuyerAllureAttachments.class
 Gokomodo/FE/MobileWeb/Seller/listeners/MobileWebSellerAllureListener.class
 Gokomodo/FE/Mobile/Seller/utils/MobileSellerEnvironmentSetup.class
 Gokomodo/FE/Mobile/Buyer/controllers/MobileBuyerBaseMethod.class
+Gokomodo/BE/Rest/controllers/IntegrationBaseMethod.class
 Gokomodo/FE/Mobile/Seller/controllers/MobileSellerBaseMethod.class
 Gokomodo/FE/Mobile/Seller/controllers/MobileSellerInitMethod.class
 Gokomodo/FE/Web/Buyer/utils/BuyerRandomGenerator.class
@@ -63,7 +65,6 @@ Gokomodo/FE/Web/Admin/controllers/AdminInitMethod.class
 Gokomodo/FE/MobileWeb/Seller/utils/MobileWebSellerEnvironmentSetup.class
 Gokomodo/FE/MobileWeb/Seller/utils/MobileWebSellerAllureAttachments.class
 Gokomodo/FE/Web/Admin/controllers/AdminBrowserFactory.class
-Gokomodo/BE/Rest/controllers/RestBaseMethod.class
 Gokomodo/FE/Mobile/Buyer/controllers/MobileBuyerBaseMethod$1.class
 Gokomodo/FE/Web/Buyer/utils/BuyerExcelUtils.class
 Gokomodo/FE/Mobile/Seller/controllers/MobileSellerWebDriverFactory.class
@@ -87,6 +88,7 @@ Gokomodo/FE/Web/Admin/controllers/AdminBaseMethod.class
 Gokomodo/FE/Mobile/Buyer/controllers/MobileBuyerWebDriverFactory.class
 Gokomodo/FE/MobileWeb/Buyer/utils/MobileWebBuyerAllureAttachments.class
 Gokomodo/FE/Web/Admin/listeners/AdminAllureListener.class
+Gokomodo/BE/Rest/controllers/MainBaseMethod.class
 Gokomodo/FE/Web/Buyer/controllers/BuyerInitMethod.class
 Gokomodo/FE/Mobile/Seller/listeners/MobileSellerAllureListener.class
 Gokomodo/FE/Web/Seller/utils/AllureAttachments.class

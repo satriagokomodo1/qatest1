@@ -14,54 +14,75 @@ public class RestConfigReader {
 
 
     // Get value from RestConfig.properties
-    @Property(value = "BaseURI")
-    private String BaseURI;
+    @Property(value = "RetailBaseURI")
+    private String RetailBaseURI;
 
-    @Property(value = "AccessControlPath")
-    private String AccessControlPath;
+    @Property(value = "RetailAccessControlPath")
+    private String RetailAccessControlPath;
 
-    @Property(value = "AuthLoginPath")
-    private String AuthLoginPath;
+    @Property(value = "RetailAuthLoginPath")
+    private String RetailAuthLoginPath;
 
-    @Property(value = "ContentType")
-    private String ContentType;
+    @Property(value = "JSONContentType")
+    private String JSONContentType;
 
-    @Property(value = "AuthLoginTestDataLocation")
-    private String AuthLoginTestDataLocation;
+    @Property(value = "RetailAuthLoginTestDataLocation")
+    private String RetailAuthLoginTestDataLocation;
 
-    @Property(value = "TokenFileLocation")
-    private String TokenFileLocation;
+    @Property(value = "RetailTokenFileLocation")
+    private String RetailTokenFileLocation;
 
-    @Property(value = "CreateProductLocation")
-    private String CreateProductLocation;
+    @Property(value = "RetailCreateProductLocation")
+    private String RetailCreateProductLocation;
 
-    @Property(value = "ProductPath")
-    private String ProductPath;
+    @Property(value = "RetailProductPath")
+    private String RetailProductPath;
 
-    @Property(value = "CreateProductResponseLocation")
-    private String CreateProductResponseLocation;
+    @Property(value = "RetailCreateProductResponseLocation")
+    private String RetailCreateProductResponseLocation;
 
-    @Property(value = "PartnerPath")
-    private String PartnerPath;
+    @Property(value = "RetailPartnerPath")
+    private String RetailPartnerPath;
 
-    @Property(value = "CreatePartnerLocation")
-    private String CreatePartnerLocation;
+    @Property(value = "RetailCreatePartnerLocation")
+    private String RetailCreatePartnerLocation;
 
-    @Property(value = "CreatePartnerResponseLocation")
-    private String CreatePartnerResponseLocation;
+    @Property(value = "RetailCreatePartnerResponseLocation")
+    private String RetailCreatePartnerResponseLocation;
 
-    // Get method for the value
-    protected String getPartnerPath() {return PartnerPath;}
-    protected String getCreatePartnerLocation() {return CreatePartnerLocation;}
-    protected String getCreatePartnerResponseLocation() {return CreatePartnerResponseLocation;}
-    protected String getBaseURI() {return BaseURI;}
-    protected String getAccessControlPath() {return AccessControlPath;}
-    protected String getAuthLoginPath() {return AuthLoginPath;}
-    protected String getContentType() {return ContentType;}
-    protected String getAuthLoginTestDataLocation() {return AuthLoginTestDataLocation;}
-    protected String getTokenFileLocation() {return TokenFileLocation;}
-    protected String getCreateProductLocation() {return CreateProductLocation;}
-    protected String getCreateProductResponseLocation() {return CreateProductResponseLocation;}
-    protected String getProductPath() {return ProductPath;}
+    @Property(value = "IntegrationBaseURI")
+    private String IntegrationBaseURI;
+    protected String getIntegrationBaseURI() {return IntegrationBaseURI;}
+
+    @Property(value = "IntegrationAuthLoginPath")
+    private String IntegrationAuthLoginPath;
+    protected String getIntegrationAuthLoginPath() {return IntegrationAuthLoginPath;}
+
+    @Property(value = "IntegrationAuthLoginTestDataLocation")
+    private String IntegrationAuthLoginTestDataLocation;
+    protected String getIntegrationAuthLoginTestDataLocation() {return IntegrationAuthLoginTestDataLocation;}
+
+    @Property(value = "IntegrationAuthLoginResponseFileLocation")
+    private String IntegrationAuthLoginResponseFileLocation;
+    protected String getIntegrationAuthLoginResponseFileLocation() {return IntegrationAuthLoginResponseFileLocation;}
+
+    @Property(value = "IntegrationAuthLoginSchemaLocation")
+    private String IntegrationAuthLoginSchemaLocation;
+
+    protected String getIntegrationAuthLoginSchemaLocation() {return IntegrationAuthLoginSchemaLocation;}
+
+
+    protected String getRetailPartnerPath() {return RetailPartnerPath;}
+    protected String getRetailCreatePartnerLocation() {return RetailCreatePartnerLocation;}
+    protected String getRetailCreatePartnerResponseLocation() {return RetailCreatePartnerResponseLocation;}
+    protected String getRetailBaseURI() {return RetailBaseURI;}
+    protected String getRetailAccessControlPath() {return RetailAccessControlPath;}
+    protected String getRetailAuthLoginPath() {return RetailAuthLoginPath;}
+    protected String getJSONContentType() {return JSONContentType;}
+    protected String getRetailAuthLoginTestDataLocation() {return RetailAuthLoginTestDataLocation;}
+    protected String getRetailTokenFileLocation() {return RetailTokenFileLocation;}
+    protected String getRetailCreateProductLocation() {return RetailCreateProductLocation;}
+    protected String getRetailCreateProductResponseLocation() {return RetailCreateProductResponseLocation;}
+    protected String getRetailProductPath() {return RetailProductPath;}
 
 }

@@ -7,9 +7,8 @@
     </listeners>
         <suite-files>
             <suite-file path="testng_web.xml"/>
-            <suite-file path="testng_mobileweb.xml"/>
-            <suite-file path="testng_mobile.xml"/>
+            <suite-file path="testng_android.xml"/>
+            <suite-file path="testng_ios.xml"/>
             <suite-file path="testng_rest.xml"/>
         </suite-files>
 </suite> <!-- Suite -->
-

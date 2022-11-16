@@ -1,7 +1,0 @@
-{
-    "Data": {
-        "AccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJEYXRhIjp7IkludGVybmFsVXNlcklEIjoxfSwiYXVkIjoiSW50ZXJuYWxVc2VyIiwiZXhwIjoxNjY4NTgwODIxLCJpYXQiOjE2Njg0OTQ0MjEsImlzcyI6Imh0dHBzOi8vYXBpLXN0Zy1yZXRhaWwtamF5YS5rb21vZG8uZGlnaXRhbCJ9.eZ3o0vN-5MFys3FJXynyQ3VYTBmFww9EAyZrjXfzGkU",
-        "RefreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJEYXRhIjp7IkludGVybmFsVXNlcklEIjoxfSwiYXVkIjoiSW50ZXJuYWxVc2VyIiwiZXhwIjoxNjY4NjY3MjIxLCJpYXQiOjE2Njg0OTQ0MjEsImlzcyI6Imh0dHBzOi8vYXBpLXN0Zy1yZXRhaWwtamF5YS5rb21vZG8uZGlnaXRhbCJ9.BmCHm80DCgoHU43R7LGf_ouRCiGW3JAWu9ObuzBkE8k"
-    },
-    "Message": "Success"
-}

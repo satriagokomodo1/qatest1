@@ -1,7 +1,7 @@
 09 Nov 2022 10:56:30  INFO logger - ===============================================
 09 Nov 2022 10:56:30  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 10:56:30  INFO logger - ===============================================
-09 Nov 2022 10:56:34  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 10:56:34  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 10:56:34  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 10:56:34  INFO logger - Status code is: 200
 09 Nov 2022 10:56:34  INFO logger - Expected status code is: 200
@@ -22,21 +22,21 @@
 09 Nov 2022 10:58:36  INFO logger - ===============================================
 09 Nov 2022 10:58:36  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 10:58:36  INFO logger - ===============================================
-09 Nov 2022 10:58:40  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 10:58:40  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 10:58:40  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 10:58:40  INFO logger - Status code is: 200
 09 Nov 2022 10:58:40  INFO logger - Expected status code is: 200
 09 Nov 2022 11:05:16  INFO logger - ===============================================
 09 Nov 2022 11:05:16  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:05:16  INFO logger - ===============================================
-09 Nov 2022 11:05:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:05:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:05:20  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:05:20  INFO logger - Status code is: 200
 09 Nov 2022 11:05:20  INFO logger - Expected status code is: 200
 09 Nov 2022 11:06:15  INFO logger - ===============================================
 09 Nov 2022 11:06:15  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:06:15  INFO logger - ===============================================
-09 Nov 2022 11:06:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:06:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:06:20  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:06:20  INFO logger - Status code is: 200
 09 Nov 2022 11:06:20  INFO logger - Expected status code is: 200
@@ -45,7 +45,7 @@
 09 Nov 2022 11:09:59  INFO logger - ===============================================
 09 Nov 2022 11:09:59  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:09:59  INFO logger - ===============================================
-09 Nov 2022 11:10:05  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:10:05  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:10:05  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:10:05  INFO logger - Status code is: 200
 09 Nov 2022 11:10:05  INFO logger - Expected status code is: 200
@@ -54,7 +54,7 @@
 09 Nov 2022 11:11:42  INFO logger - ===============================================
 09 Nov 2022 11:11:42  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:11:42  INFO logger - ===============================================
-09 Nov 2022 11:11:47  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:11:47  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:11:47  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:11:47  INFO logger - Status code is: 200
 09 Nov 2022 11:11:47  INFO logger - Expected status code is: 200
@@ -65,7 +65,7 @@
 09 Nov 2022 11:12:24  INFO logger - ===============================================
 09 Nov 2022 11:12:24  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:12:24  INFO logger - ===============================================
-09 Nov 2022 11:12:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:12:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:12:29  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:12:29  INFO logger - Status code is: 200
 09 Nov 2022 11:12:29  INFO logger - Expected status code is: 200
@@ -76,7 +76,7 @@
 09 Nov 2022 11:14:13  INFO logger - ===============================================
 09 Nov 2022 11:14:13  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:14:13  INFO logger - ===============================================
-09 Nov 2022 11:14:17  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:14:17  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:14:17  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:14:17  INFO logger - Status code is: 200
 09 Nov 2022 11:14:17  INFO logger - Response body contains AccessToken
@@ -85,7 +85,7 @@
 09 Nov 2022 11:27:29  INFO logger - ===============================================
 09 Nov 2022 11:27:29  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:27:29  INFO logger - ===============================================
-09 Nov 2022 11:27:34  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:27:34  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:27:34  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:27:34  INFO logger - Status code is: 200
 09 Nov 2022 11:27:34  INFO logger - Response body contains AccessToken
@@ -94,14 +94,14 @@
 09 Nov 2022 11:44:41  INFO logger - ===============================================
 09 Nov 2022 11:44:41  INFO logger - Test case 1: [POST] Login test
 09 Nov 2022 11:44:41  INFO logger - ===============================================
-09 Nov 2022 11:44:46  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 11:44:46  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 11:44:46  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 11:44:46  INFO logger - Status code is: 200
 09 Nov 2022 11:44:46  INFO logger - Response body contains AccessToken
 09 Nov 2022 11:44:46  INFO logger - Response body contains RefreshToken
 09 Nov 2022 11:44:46  INFO logger - Content type is: application/json; charset=UTF-8
 09 Nov 2022 12:50:10  INFO logger - Rest API Test of Login Authentication
-09 Nov 2022 12:50:15  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 12:50:15  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 12:50:15  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 12:50:15  INFO logger - Status code is: 200
 09 Nov 2022 12:50:15  INFO logger - Response body contains AccessToken
@@ -111,7 +111,7 @@
 09 Nov 2022 12:54:31  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 12:54:31  INFO logger - ===============================================
 09 Nov 2022 12:54:31  INFO logger - Rest API Test of Login Authentication
-09 Nov 2022 12:54:37  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 12:54:37  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 12:54:37  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 12:54:37  INFO logger - Status code is: 200
 09 Nov 2022 12:54:37  INFO logger - Response body contains AccessToken
@@ -120,7 +120,7 @@
 09 Nov 2022 12:59:43  INFO logger - ===============================================
 09 Nov 2022 12:59:43  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 12:59:43  INFO logger - ===============================================
-09 Nov 2022 12:59:47  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 12:59:47  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 12:59:47  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 12:59:47  INFO logger - ++++++++++++++++++++++++++++++
 09 Nov 2022 12:59:47  INFO logger - Status code is: 200
@@ -130,7 +130,7 @@
 09 Nov 2022 13:00:14  INFO logger - ===============================================
 09 Nov 2022 13:00:14  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 13:00:14  INFO logger - ===============================================
-09 Nov 2022 13:00:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 13:00:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 13:00:19  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:00:19  INFO logger - ++++++++++++++++++++++++++++++++++++++++++++++++
 09 Nov 2022 13:00:19  INFO logger - Status code is: 200
@@ -140,7 +140,7 @@
 09 Nov 2022 13:00:36  INFO logger - ===============================================
 09 Nov 2022 13:00:36  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 13:00:36  INFO logger - ===============================================
-09 Nov 2022 13:00:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/login
+09 Nov 2022 13:00:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co//v1/auth/retailLogin
 09 Nov 2022 13:00:41  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:00:41  INFO logger - +++++++++++++++++++++++++++++++++++++++++++++++
 09 Nov 2022 13:00:41  INFO logger - Status code is: 200
@@ -150,7 +150,7 @@
 09 Nov 2022 13:10:14  INFO logger - ===============================================
 09 Nov 2022 13:10:14  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 13:10:14  INFO logger - ===============================================
-09 Nov 2022 13:10:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:10:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:10:19  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:10:19  INFO logger - +++++++++++++++++++++++++++++++++++++++++++++++
 09 Nov 2022 13:10:19  INFO logger - Status code is: 200
@@ -160,7 +160,7 @@
 09 Nov 2022 13:10:58  INFO logger - ===============================================
 09 Nov 2022 13:10:58  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 13:10:58  INFO logger - ===============================================
-09 Nov 2022 13:11:04  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:11:04  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:11:04  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:11:04  INFO logger - -----------------------------------------------
 09 Nov 2022 13:11:04  INFO logger - Status code is: 200
@@ -171,7 +171,7 @@
 09 Nov 2022 13:14:32  INFO logger - Rest API Test of Login Authentication
 09 Nov 2022 13:14:32  INFO logger - ===============================================
 09 Nov 2022 13:14:37  INFO logger - Request type: POST
-09 Nov 2022 13:14:37  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:14:37  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:14:37  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:14:37  INFO logger - -----------------------------------------------
 09 Nov 2022 13:14:37  INFO logger - Status code is: 200
@@ -183,7 +183,7 @@
 09 Nov 2022 13:15:50  INFO logger - ===============================================
 09 Nov 2022 13:15:56  INFO logger - REQUEST INFO
 09 Nov 2022 13:15:56  INFO logger - Request type: POST
-09 Nov 2022 13:15:56  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:15:56  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:15:56  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:15:56  INFO logger - -----------------------------------------------
 09 Nov 2022 13:15:56  INFO logger - RESPONSE INFO
@@ -196,7 +196,7 @@
 09 Nov 2022 13:22:39  INFO logger - ===============================================
 09 Nov 2022 13:22:43  INFO logger - REQUEST INFO
 09 Nov 2022 13:22:43  INFO logger - Request type: POST
-09 Nov 2022 13:22:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:22:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:22:43  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:22:43  INFO logger - -----------------------------------------------
 09 Nov 2022 13:22:43  INFO logger - RESPONSE INFO
@@ -207,7 +207,7 @@
 09 Nov 2022 13:22:43  INFO logger - ===============================================
 09 Nov 2022 13:22:44  INFO logger - REQUEST INFO
 09 Nov 2022 13:22:44  INFO logger - Request type: POST
-09 Nov 2022 13:22:44  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:22:44  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:22:44  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:22:44  INFO logger - -----------------------------------------------
 09 Nov 2022 13:22:44  INFO logger - RESPONSE INFO
@@ -220,7 +220,7 @@
 09 Nov 2022 13:23:58  INFO logger - ===============================================
 09 Nov 2022 13:24:03  INFO logger - REQUEST INFO
 09 Nov 2022 13:24:03  INFO logger - Request type: POST
-09 Nov 2022 13:24:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:24:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:24:03  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:24:03  INFO logger - -----------------------------------------------
 09 Nov 2022 13:24:03  INFO logger - RESPONSE INFO
@@ -231,7 +231,7 @@
 09 Nov 2022 13:24:03  INFO logger - ===============================================
 09 Nov 2022 13:24:03  INFO logger - REQUEST INFO
 09 Nov 2022 13:24:03  INFO logger - Request type: POST
-09 Nov 2022 13:24:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:24:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:24:03  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:24:03  INFO logger - -----------------------------------------------
 09 Nov 2022 13:24:03  INFO logger - RESPONSE INFO
@@ -252,7 +252,7 @@
 09 Nov 2022 13:25:03  INFO logger - ===============================================
 09 Nov 2022 13:25:04  INFO logger - REQUEST INFO
 09 Nov 2022 13:25:04  INFO logger - Request type: POST
-09 Nov 2022 13:25:04  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:25:04  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:25:04  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:25:04  INFO logger - -----------------------------------------------
 09 Nov 2022 13:25:04  INFO logger - RESPONSE INFO
@@ -273,7 +273,7 @@
 09 Nov 2022 13:42:42  INFO logger - ===============================================
 09 Nov 2022 13:42:43  INFO logger - REQUEST INFO
 09 Nov 2022 13:42:43  INFO logger - Request type: POST
-09 Nov 2022 13:42:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 13:42:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 13:42:43  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 13:42:43  INFO logger - -----------------------------------------------
 09 Nov 2022 13:42:43  INFO logger - RESPONSE INFO
@@ -286,7 +286,7 @@
 09 Nov 2022 14:18:01  INFO logger - ===============================================
 09 Nov 2022 14:18:06  INFO logger - REQUEST INFO
 09 Nov 2022 14:18:06  INFO logger - Request type: POST
-09 Nov 2022 14:18:06  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 14:18:06  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 14:18:06  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 14:18:06  INFO logger - -----------------------------------------------
 09 Nov 2022 14:18:06  INFO logger - RESPONSE INFO
@@ -302,7 +302,7 @@
 09 Nov 2022 14:25:16  INFO logger - ===============================================
 09 Nov 2022 14:25:20  INFO logger - REQUEST INFO
 09 Nov 2022 14:25:20  INFO logger - Request type: POST
-09 Nov 2022 14:25:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 14:25:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 14:25:20  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 14:25:20  INFO logger - -----------------------------------------------
 09 Nov 2022 14:25:20  INFO logger - RESPONSE INFO
@@ -318,7 +318,7 @@
 09 Nov 2022 14:25:42  INFO logger - ===============================================
 09 Nov 2022 14:25:45  INFO logger - REQUEST INFO
 09 Nov 2022 14:25:45  INFO logger - Request type: POST
-09 Nov 2022 14:25:45  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 14:25:45  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 14:25:45  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 14:25:45  INFO logger - -----------------------------------------------
 09 Nov 2022 14:25:45  INFO logger - RESPONSE INFO
@@ -331,7 +331,7 @@
 09 Nov 2022 14:28:27  INFO logger - ===============================================
 09 Nov 2022 14:28:33  INFO logger - REQUEST INFO
 09 Nov 2022 14:28:33  INFO logger - Request type: POST
-09 Nov 2022 14:28:33  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 14:28:33  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 14:28:33  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 14:28:33  INFO logger - -----------------------------------------------
 09 Nov 2022 14:28:33  INFO logger - RESPONSE INFO
@@ -397,7 +397,7 @@
 09 Nov 2022 14:48:53  INFO logger - ===============================================
 09 Nov 2022 14:48:58  INFO logger - REQUEST INFO
 09 Nov 2022 14:48:58  INFO logger - Request type: POST
-09 Nov 2022 14:48:58  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 14:48:58  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 14:48:58  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 14:48:58  INFO logger - -----------------------------------------------
 09 Nov 2022 14:48:58  INFO logger - RESPONSE INFO
@@ -426,7 +426,7 @@
 09 Nov 2022 14:50:46  INFO logger - ===============================================
 09 Nov 2022 14:50:51  INFO logger - REQUEST INFO
 09 Nov 2022 14:50:51  INFO logger - Request type: POST
-09 Nov 2022 14:50:51  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 14:50:51  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 14:50:51  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 14:50:51  INFO logger - -----------------------------------------------
 09 Nov 2022 14:50:51  INFO logger - RESPONSE INFO
@@ -447,7 +447,7 @@
 09 Nov 2022 15:04:52  INFO logger - ===============================================
 09 Nov 2022 15:04:57  INFO logger - REQUEST INFO
 09 Nov 2022 15:04:57  INFO logger - Request type: POST
-09 Nov 2022 15:04:57  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 15:04:57  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 15:04:57  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 15:04:57  INFO logger - -----------------------------------------------
 09 Nov 2022 15:04:57  INFO logger - RESPONSE INFO
@@ -460,7 +460,7 @@
 09 Nov 2022 15:23:51  INFO logger - ===============================================
 09 Nov 2022 15:23:57  INFO logger - REQUEST INFO
 09 Nov 2022 15:23:57  INFO logger - Request type: POST
-09 Nov 2022 15:23:57  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 15:23:57  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 15:23:57  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 15:23:57  INFO logger - -----------------------------------------------
 09 Nov 2022 15:23:57  INFO logger - RESPONSE INFO
@@ -472,7 +472,7 @@
 09 Nov 2022 15:24:18  INFO logger - ===============================================
 09 Nov 2022 15:24:23  INFO logger - REQUEST INFO
 09 Nov 2022 15:24:23  INFO logger - Request type: POST
-09 Nov 2022 15:24:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 15:24:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 15:24:23  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 15:24:23  INFO logger - -----------------------------------------------
 09 Nov 2022 15:24:23  INFO logger - RESPONSE INFO
@@ -484,7 +484,7 @@
 09 Nov 2022 15:24:38  INFO logger - ===============================================
 09 Nov 2022 15:24:43  INFO logger - REQUEST INFO
 09 Nov 2022 15:24:43  INFO logger - Request type: POST
-09 Nov 2022 15:24:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 15:24:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 15:24:43  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 15:24:43  INFO logger - -----------------------------------------------
 09 Nov 2022 15:24:43  INFO logger - RESPONSE INFO
@@ -493,7 +493,7 @@
 09 Nov 2022 15:28:25  INFO logger - ===============================================
 09 Nov 2022 15:28:30  INFO logger - REQUEST INFO
 09 Nov 2022 15:28:30  INFO logger - Request type: POST
-09 Nov 2022 15:28:30  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 15:28:30  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 15:28:30  INFO logger - Request body: {"password":"gokomodo123","email":"super.admin@gokomodo.com"}
 09 Nov 2022 15:28:30  INFO logger - -----------------------------------------------
 09 Nov 2022 15:28:30  INFO logger - RESPONSE INFO
@@ -502,7 +502,7 @@
 09 Nov 2022 15:45:18  INFO logger - ===============================================
 09 Nov 2022 15:45:23  INFO logger - REQUEST INFO
 09 Nov 2022 15:45:23  INFO logger - Request type: POST
-09 Nov 2022 15:45:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 15:45:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 15:45:23  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 15:45:23  INFO logger - -----------------------------------------------
 09 Nov 2022 15:45:23  INFO logger - RESPONSE INFO
@@ -523,7 +523,7 @@
 09 Nov 2022 16:17:47  INFO logger - ===============================================
 09 Nov 2022 16:17:52  INFO logger - REQUEST INFO
 09 Nov 2022 16:17:52  INFO logger - Request type: POST
-09 Nov 2022 16:17:52  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:17:52  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:17:52  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:17:52  INFO logger - -----------------------------------------------
 09 Nov 2022 16:17:52  INFO logger - RESPONSE INFO
@@ -545,7 +545,7 @@
 09 Nov 2022 16:20:16  INFO logger - ===============================================
 09 Nov 2022 16:20:22  INFO logger - REQUEST INFO
 09 Nov 2022 16:20:22  INFO logger - Request type: POST
-09 Nov 2022 16:20:22  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:20:22  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:20:22  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:20:22  INFO logger - -----------------------------------------------
 09 Nov 2022 16:20:22  INFO logger - RESPONSE INFO
@@ -567,7 +567,7 @@
 09 Nov 2022 16:21:40  INFO logger - ===============================================
 09 Nov 2022 16:21:45  INFO logger - REQUEST INFO
 09 Nov 2022 16:21:45  INFO logger - Request type: POST
-09 Nov 2022 16:21:45  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:21:45  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:21:45  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:21:45  INFO logger - -----------------------------------------------
 09 Nov 2022 16:21:45  INFO logger - RESPONSE INFO
@@ -591,7 +591,7 @@
 09 Nov 2022 16:35:36  INFO logger - ===============================================
 09 Nov 2022 16:35:41  INFO logger - REQUEST INFO
 09 Nov 2022 16:35:41  INFO logger - Request type: POST
-09 Nov 2022 16:35:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:35:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:35:41  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:35:41  INFO logger - -----------------------------------------------
 09 Nov 2022 16:35:41  INFO logger - RESPONSE INFO
@@ -615,7 +615,7 @@
 09 Nov 2022 16:40:20  INFO logger - ===============================================
 09 Nov 2022 16:40:26  INFO logger - REQUEST INFO
 09 Nov 2022 16:40:26  INFO logger - Request type: POST
-09 Nov 2022 16:40:26  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:40:26  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:40:26  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:40:26  INFO logger - -----------------------------------------------
 09 Nov 2022 16:40:26  INFO logger - RESPONSE INFO
@@ -649,7 +649,7 @@
 09 Nov 2022 16:46:50  INFO logger - ===============================================
 09 Nov 2022 16:46:56  INFO logger - REQUEST INFO
 09 Nov 2022 16:46:56  INFO logger - Request type: POST
-09 Nov 2022 16:46:56  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:46:56  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:46:56  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:46:56  INFO logger - -----------------------------------------------
 09 Nov 2022 16:46:56  INFO logger - RESPONSE INFO
@@ -689,7 +689,7 @@
 09 Nov 2022 16:49:11  INFO logger - ===============================================
 09 Nov 2022 16:49:16  INFO logger - REQUEST INFO
 09 Nov 2022 16:49:16  INFO logger - Request type: POST
-09 Nov 2022 16:49:16  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:49:16  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:49:16  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:49:16  INFO logger - -----------------------------------------------
 09 Nov 2022 16:49:16  INFO logger - RESPONSE INFO
@@ -733,7 +733,7 @@
 09 Nov 2022 16:56:26  INFO logger - ===============================================
 09 Nov 2022 16:56:31  INFO logger - REQUEST INFO
 09 Nov 2022 16:56:31  INFO logger - Request type: POST
-09 Nov 2022 16:56:31  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+09 Nov 2022 16:56:31  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 09 Nov 2022 16:56:31  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 09 Nov 2022 16:56:31  INFO logger - -----------------------------------------------
 09 Nov 2022 16:56:31  INFO logger - RESPONSE INFO
@@ -778,7 +778,7 @@
 10 Nov 2022 09:24:07  INFO logger - ===============================================
 10 Nov 2022 09:24:12  INFO logger - REQUEST INFO
 10 Nov 2022 09:24:12  INFO logger - Request type: POST
-10 Nov 2022 09:24:12  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 09:24:12  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 09:24:12  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 09:24:12  INFO logger - -----------------------------------------------
 10 Nov 2022 09:24:12  INFO logger - RESPONSE INFO
@@ -804,7 +804,7 @@
 10 Nov 2022 09:33:20  INFO logger - ===============================================
 10 Nov 2022 09:33:25  INFO logger - REQUEST INFO
 10 Nov 2022 09:33:25  INFO logger - Request type: POST
-10 Nov 2022 09:33:25  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 09:33:25  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 09:33:25  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 09:33:25  INFO logger - -----------------------------------------------
 10 Nov 2022 09:33:25  INFO logger - RESPONSE INFO
@@ -841,7 +841,7 @@
 10 Nov 2022 09:35:53  INFO logger - ===============================================
 10 Nov 2022 09:35:58  INFO logger - REQUEST INFO
 10 Nov 2022 09:35:58  INFO logger - Request type: POST
-10 Nov 2022 09:35:58  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 09:35:58  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 09:35:58  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 09:35:58  INFO logger - -----------------------------------------------
 10 Nov 2022 09:35:58  INFO logger - RESPONSE INFO
@@ -854,7 +854,7 @@
 10 Nov 2022 09:35:58  INFO logger - ===============================================
 10 Nov 2022 09:35:59  INFO logger - REQUEST INFO
 10 Nov 2022 09:35:59  INFO logger - Request type: POST
-10 Nov 2022 09:35:59  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 09:35:59  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 09:35:59  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 09:35:59  INFO logger - -----------------------------------------------
 10 Nov 2022 09:35:59  INFO logger - RESPONSE INFO
@@ -905,7 +905,7 @@
 10 Nov 2022 09:37:24  INFO logger - ===============================================
 10 Nov 2022 09:37:29  INFO logger - REQUEST INFO
 10 Nov 2022 09:37:29  INFO logger - Request type: POST
-10 Nov 2022 09:37:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 09:37:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 09:37:29  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 09:37:29  INFO logger - -----------------------------------------------
 10 Nov 2022 09:37:29  INFO logger - RESPONSE INFO
@@ -918,7 +918,7 @@
 10 Nov 2022 09:37:29  INFO logger - ===============================================
 10 Nov 2022 09:37:30  INFO logger - REQUEST INFO
 10 Nov 2022 09:37:30  INFO logger - Request type: POST
-10 Nov 2022 09:37:30  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 09:37:30  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 09:37:30  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 09:37:30  INFO logger - -----------------------------------------------
 10 Nov 2022 09:37:30  INFO logger - RESPONSE INFO
@@ -990,7 +990,7 @@
 10 Nov 2022 10:07:35  INFO logger - ===============================================
 10 Nov 2022 10:07:41  INFO logger - REQUEST INFO
 10 Nov 2022 10:07:41  INFO logger - Request type: POST
-10 Nov 2022 10:07:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:07:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:07:41  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:07:41  INFO logger - -----------------------------------------------
 10 Nov 2022 10:07:41  INFO logger - RESPONSE INFO
@@ -1003,7 +1003,7 @@
 10 Nov 2022 10:07:41  INFO logger - ===============================================
 10 Nov 2022 10:07:42  INFO logger - REQUEST INFO
 10 Nov 2022 10:07:42  INFO logger - Request type: POST
-10 Nov 2022 10:07:42  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:07:42  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:07:42  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:07:42  INFO logger - -----------------------------------------------
 10 Nov 2022 10:07:42  INFO logger - RESPONSE INFO
@@ -1075,7 +1075,7 @@
 10 Nov 2022 10:15:12  INFO logger - ===============================================
 10 Nov 2022 10:15:18  INFO logger - REQUEST INFO
 10 Nov 2022 10:15:18  INFO logger - Request type: POST
-10 Nov 2022 10:15:18  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:15:18  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:15:18  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:15:18  INFO logger - -----------------------------------------------
 10 Nov 2022 10:15:18  INFO logger - RESPONSE INFO
@@ -1115,7 +1115,7 @@
 10 Nov 2022 10:15:18  INFO logger - ===============================================
 10 Nov 2022 10:15:19  INFO logger - REQUEST INFO
 10 Nov 2022 10:15:19  INFO logger - Request type: POST
-10 Nov 2022 10:15:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:15:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:15:19  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:15:19  INFO logger - -----------------------------------------------
 10 Nov 2022 10:15:19  INFO logger - RESPONSE INFO
@@ -1160,7 +1160,7 @@
 10 Nov 2022 10:20:07  INFO logger - ===============================================
 10 Nov 2022 10:20:13  INFO logger - REQUEST INFO
 10 Nov 2022 10:20:13  INFO logger - Request type: POST
-10 Nov 2022 10:20:13  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:20:13  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:20:13  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:20:13  INFO logger - -----------------------------------------------
 10 Nov 2022 10:20:13  INFO logger - RESPONSE INFO
@@ -1200,7 +1200,7 @@
 10 Nov 2022 10:20:14  INFO logger - ===============================================
 10 Nov 2022 10:20:15  INFO logger - REQUEST INFO
 10 Nov 2022 10:20:15  INFO logger - Request type: POST
-10 Nov 2022 10:20:15  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:20:15  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:20:15  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:20:15  INFO logger - -----------------------------------------------
 10 Nov 2022 10:20:15  INFO logger - RESPONSE INFO
@@ -1245,7 +1245,7 @@
 10 Nov 2022 10:24:32  INFO logger - ===============================================
 10 Nov 2022 10:24:37  INFO logger - REQUEST INFO
 10 Nov 2022 10:24:37  INFO logger - Request type: POST
-10 Nov 2022 10:24:37  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:24:37  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:24:37  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:24:37  INFO logger - -----------------------------------------------
 10 Nov 2022 10:24:37  INFO logger - RESPONSE INFO
@@ -1285,7 +1285,7 @@
 10 Nov 2022 10:24:38  INFO logger - ===============================================
 10 Nov 2022 10:24:39  INFO logger - REQUEST INFO
 10 Nov 2022 10:24:39  INFO logger - Request type: POST
-10 Nov 2022 10:24:39  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:24:39  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:24:39  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:24:39  INFO logger - -----------------------------------------------
 10 Nov 2022 10:24:39  INFO logger - RESPONSE INFO
@@ -1330,7 +1330,7 @@
 10 Nov 2022 10:28:26  INFO logger - ===============================================
 10 Nov 2022 10:28:31  INFO logger - REQUEST INFO
 10 Nov 2022 10:28:31  INFO logger - Request type: POST
-10 Nov 2022 10:28:31  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:28:31  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:28:31  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:28:31  INFO logger - -----------------------------------------------
 10 Nov 2022 10:28:31  INFO logger - RESPONSE INFO
@@ -1370,7 +1370,7 @@
 10 Nov 2022 10:28:31  INFO logger - ===============================================
 10 Nov 2022 10:28:33  INFO logger - REQUEST INFO
 10 Nov 2022 10:28:33  INFO logger - Request type: POST
-10 Nov 2022 10:28:33  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 10:28:33  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 10:28:33  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 10:28:33  INFO logger - -----------------------------------------------
 10 Nov 2022 10:28:33  INFO logger - RESPONSE INFO
@@ -1415,7 +1415,7 @@
 10 Nov 2022 14:49:20  INFO logger - ===============================================
 10 Nov 2022 14:49:25  INFO logger - REQUEST INFO
 10 Nov 2022 14:49:25  INFO logger - Request type: POST
-10 Nov 2022 14:49:25  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 14:49:25  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 14:49:25  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 14:49:25  INFO logger - -----------------------------------------------
 10 Nov 2022 14:49:25  INFO logger - RESPONSE INFO
@@ -1455,7 +1455,7 @@
 10 Nov 2022 14:49:26  INFO logger - ===============================================
 10 Nov 2022 14:49:28  INFO logger - REQUEST INFO
 10 Nov 2022 14:49:28  INFO logger - Request type: POST
-10 Nov 2022 14:49:28  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 14:49:28  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 14:49:28  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 14:49:28  INFO logger - -----------------------------------------------
 10 Nov 2022 14:49:28  INFO logger - RESPONSE INFO
@@ -1500,7 +1500,7 @@
 10 Nov 2022 16:18:02  INFO logger - ===============================================
 10 Nov 2022 16:18:08  INFO logger - REQUEST INFO
 10 Nov 2022 16:18:08  INFO logger - Request type: POST
-10 Nov 2022 16:18:08  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 16:18:08  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 16:18:08  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 16:18:08  INFO logger - -----------------------------------------------
 10 Nov 2022 16:18:08  INFO logger - RESPONSE INFO
@@ -1552,7 +1552,7 @@
 10 Nov 2022 16:41:43  INFO logger - ===============================================
 10 Nov 2022 16:41:49  INFO logger - REQUEST INFO
 10 Nov 2022 16:41:49  INFO logger - Request type: POST
-10 Nov 2022 16:41:49  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 16:41:49  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 16:41:49  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 16:41:49  INFO logger - -----------------------------------------------
 10 Nov 2022 16:41:49  INFO logger - RESPONSE INFO
@@ -1592,7 +1592,7 @@
 10 Nov 2022 16:41:50  INFO logger - ===============================================
 10 Nov 2022 16:41:50  INFO logger - REQUEST INFO
 10 Nov 2022 16:41:50  INFO logger - Request type: POST
-10 Nov 2022 16:41:50  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 16:41:50  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 16:41:50  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 16:41:50  INFO logger - -----------------------------------------------
 10 Nov 2022 16:41:50  INFO logger - RESPONSE INFO
@@ -1637,7 +1637,7 @@
 10 Nov 2022 16:48:56  INFO logger - ===============================================
 10 Nov 2022 16:49:01  INFO logger - REQUEST INFO
 10 Nov 2022 16:49:01  INFO logger - Request type: POST
-10 Nov 2022 16:49:01  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 16:49:01  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 16:49:01  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 16:49:01  INFO logger - -----------------------------------------------
 10 Nov 2022 16:49:01  INFO logger - RESPONSE INFO
@@ -1677,7 +1677,7 @@
 10 Nov 2022 16:49:02  INFO logger - ===============================================
 10 Nov 2022 16:49:03  INFO logger - REQUEST INFO
 10 Nov 2022 16:49:03  INFO logger - Request type: POST
-10 Nov 2022 16:49:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+10 Nov 2022 16:49:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 10 Nov 2022 16:49:03  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 10 Nov 2022 16:49:03  INFO logger - -----------------------------------------------
 10 Nov 2022 16:49:03  INFO logger - RESPONSE INFO
@@ -1722,7 +1722,7 @@
 11 Nov 2022 09:55:44  INFO logger - ===============================================
 11 Nov 2022 09:56:20  INFO logger - REQUEST INFO
 11 Nov 2022 09:56:20  INFO logger - Request type: POST
-11 Nov 2022 09:56:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 09:56:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 09:56:20  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 09:56:20  INFO logger - -----------------------------------------------
 11 Nov 2022 09:56:20  INFO logger - RESPONSE INFO
@@ -1762,7 +1762,7 @@
 11 Nov 2022 09:56:33  INFO logger - ===============================================
 11 Nov 2022 09:56:35  INFO logger - REQUEST INFO
 11 Nov 2022 09:56:35  INFO logger - Request type: POST
-11 Nov 2022 09:56:35  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 09:56:35  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 09:56:35  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 09:56:35  INFO logger - -----------------------------------------------
 11 Nov 2022 09:56:35  INFO logger - RESPONSE INFO
@@ -1807,7 +1807,7 @@
 11 Nov 2022 10:49:14  INFO logger - ===============================================
 11 Nov 2022 10:49:20  INFO logger - REQUEST INFO
 11 Nov 2022 10:49:20  INFO logger - Request type: POST
-11 Nov 2022 10:49:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 10:49:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 10:49:20  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 10:49:20  INFO logger - -----------------------------------------------
 11 Nov 2022 10:49:20  INFO logger - RESPONSE INFO
@@ -1847,7 +1847,7 @@
 11 Nov 2022 10:49:22  INFO logger - ===============================================
 11 Nov 2022 10:49:23  INFO logger - REQUEST INFO
 11 Nov 2022 10:49:23  INFO logger - Request type: POST
-11 Nov 2022 10:49:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 10:49:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 10:49:23  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 10:49:23  INFO logger - -----------------------------------------------
 11 Nov 2022 10:49:23  INFO logger - RESPONSE INFO
@@ -1892,7 +1892,7 @@
 11 Nov 2022 13:24:38  INFO logger - ===============================================
 11 Nov 2022 13:24:44  INFO logger - REQUEST INFO
 11 Nov 2022 13:24:44  INFO logger - Request type: POST
-11 Nov 2022 13:24:44  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 13:24:44  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 13:24:44  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 13:24:44  INFO logger - -----------------------------------------------
 11 Nov 2022 13:24:44  INFO logger - RESPONSE INFO
@@ -1932,7 +1932,7 @@
 11 Nov 2022 13:25:00  INFO logger - ===============================================
 11 Nov 2022 13:25:01  INFO logger - REQUEST INFO
 11 Nov 2022 13:25:01  INFO logger - Request type: POST
-11 Nov 2022 13:25:01  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 13:25:01  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 13:25:01  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 13:25:01  INFO logger - -----------------------------------------------
 11 Nov 2022 13:25:01  INFO logger - RESPONSE INFO
@@ -1977,7 +1977,7 @@
 11 Nov 2022 15:02:04  INFO logger - ===============================================
 11 Nov 2022 15:02:11  INFO logger - REQUEST INFO
 11 Nov 2022 15:02:11  INFO logger - Request type: POST
-11 Nov 2022 15:02:11  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 15:02:11  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 15:02:11  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 15:02:11  INFO logger - -----------------------------------------------
 11 Nov 2022 15:02:11  INFO logger - RESPONSE INFO
@@ -2017,7 +2017,7 @@
 11 Nov 2022 15:02:13  INFO logger - ===============================================
 11 Nov 2022 15:02:17  INFO logger - REQUEST INFO
 11 Nov 2022 15:02:17  INFO logger - Request type: POST
-11 Nov 2022 15:02:17  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 15:02:17  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 15:02:17  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 15:02:17  INFO logger - -----------------------------------------------
 11 Nov 2022 15:02:17  INFO logger - RESPONSE INFO
@@ -2062,7 +2062,7 @@
 11 Nov 2022 15:20:29  INFO logger - ===============================================
 11 Nov 2022 15:20:36  INFO logger - REQUEST INFO
 11 Nov 2022 15:20:36  INFO logger - Request type: POST
-11 Nov 2022 15:20:36  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 15:20:36  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 15:20:36  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 15:20:36  INFO logger - -----------------------------------------------
 11 Nov 2022 15:20:36  INFO logger - RESPONSE INFO
@@ -2102,7 +2102,7 @@
 11 Nov 2022 15:20:48  INFO logger - ===============================================
 11 Nov 2022 15:20:49  INFO logger - REQUEST INFO
 11 Nov 2022 15:20:49  INFO logger - Request type: POST
-11 Nov 2022 15:20:49  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+11 Nov 2022 15:20:49  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 11 Nov 2022 15:20:49  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 11 Nov 2022 15:20:49  INFO logger - -----------------------------------------------
 11 Nov 2022 15:20:49  INFO logger - RESPONSE INFO
@@ -2147,7 +2147,7 @@
 13 Nov 2022 10:21:48  INFO logger - ===============================================
 13 Nov 2022 10:21:52  INFO logger - REQUEST INFO
 13 Nov 2022 10:21:52  INFO logger - Request type: POST
-13 Nov 2022 10:21:52  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+13 Nov 2022 10:21:52  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 13 Nov 2022 10:21:52  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 13 Nov 2022 10:21:52  INFO logger - -----------------------------------------------
 13 Nov 2022 10:21:52  INFO logger - RESPONSE INFO
@@ -2187,7 +2187,7 @@
 13 Nov 2022 10:21:52  INFO logger - ===============================================
 13 Nov 2022 10:21:53  INFO logger - REQUEST INFO
 13 Nov 2022 10:21:53  INFO logger - Request type: POST
-13 Nov 2022 10:21:53  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+13 Nov 2022 10:21:53  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 13 Nov 2022 10:21:53  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 13 Nov 2022 10:21:53  INFO logger - -----------------------------------------------
 13 Nov 2022 10:21:53  INFO logger - RESPONSE INFO
@@ -2232,7 +2232,7 @@
 13 Nov 2022 11:18:16  INFO logger - ===============================================
 13 Nov 2022 11:18:21  INFO logger - REQUEST INFO
 13 Nov 2022 11:18:21  INFO logger - Request type: POST
-13 Nov 2022 11:18:21  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+13 Nov 2022 11:18:21  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 13 Nov 2022 11:18:21  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 13 Nov 2022 11:18:21  INFO logger - -----------------------------------------------
 13 Nov 2022 11:18:21  INFO logger - RESPONSE INFO
@@ -2272,7 +2272,7 @@
 13 Nov 2022 11:18:22  INFO logger - ===============================================
 13 Nov 2022 11:18:23  INFO logger - REQUEST INFO
 13 Nov 2022 11:18:23  INFO logger - Request type: POST
-13 Nov 2022 11:18:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+13 Nov 2022 11:18:23  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 13 Nov 2022 11:18:23  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 13 Nov 2022 11:18:23  INFO logger - -----------------------------------------------
 13 Nov 2022 11:18:23  INFO logger - RESPONSE INFO
@@ -2317,7 +2317,7 @@
 13 Nov 2022 14:31:30  INFO logger - ===============================================
 13 Nov 2022 14:31:42  INFO logger - REQUEST INFO
 13 Nov 2022 14:31:42  INFO logger - Request type: POST
-13 Nov 2022 14:31:42  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+13 Nov 2022 14:31:42  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 13 Nov 2022 14:31:42  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 13 Nov 2022 14:31:42  INFO logger - -----------------------------------------------
 13 Nov 2022 14:31:42  INFO logger - RESPONSE INFO
@@ -2357,7 +2357,7 @@
 13 Nov 2022 14:31:45  INFO logger - ===============================================
 13 Nov 2022 14:31:46  INFO logger - REQUEST INFO
 13 Nov 2022 14:31:46  INFO logger - Request type: POST
-13 Nov 2022 14:31:46  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+13 Nov 2022 14:31:46  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 13 Nov 2022 14:31:46  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 13 Nov 2022 14:31:46  INFO logger - -----------------------------------------------
 13 Nov 2022 14:31:46  INFO logger - RESPONSE INFO
@@ -2402,7 +2402,7 @@
 14 Nov 2022 07:34:36  INFO logger - ===============================================
 14 Nov 2022 07:34:41  INFO logger - REQUEST INFO
 14 Nov 2022 07:34:41  INFO logger - Request type: POST
-14 Nov 2022 07:34:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 07:34:41  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 07:34:41  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 07:34:41  INFO logger - -----------------------------------------------
 14 Nov 2022 07:34:41  INFO logger - RESPONSE INFO
@@ -2442,7 +2442,7 @@
 14 Nov 2022 07:34:41  INFO logger - ===============================================
 14 Nov 2022 07:34:42  INFO logger - REQUEST INFO
 14 Nov 2022 07:34:42  INFO logger - Request type: POST
-14 Nov 2022 07:34:42  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 07:34:42  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 07:34:42  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 07:34:42  INFO logger - -----------------------------------------------
 14 Nov 2022 07:34:42  INFO logger - RESPONSE INFO
@@ -2487,7 +2487,7 @@
 14 Nov 2022 08:19:48  INFO logger - ===============================================
 14 Nov 2022 08:19:53  INFO logger - REQUEST INFO
 14 Nov 2022 08:19:53  INFO logger - Request type: POST
-14 Nov 2022 08:19:53  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 08:19:53  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 08:19:53  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 08:19:53  INFO logger - -----------------------------------------------
 14 Nov 2022 08:19:53  INFO logger - RESPONSE INFO
@@ -2527,7 +2527,7 @@
 14 Nov 2022 08:19:53  INFO logger - ===============================================
 14 Nov 2022 08:19:54  INFO logger - REQUEST INFO
 14 Nov 2022 08:19:54  INFO logger - Request type: POST
-14 Nov 2022 08:19:54  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 08:19:54  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 08:19:54  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 08:19:54  INFO logger - -----------------------------------------------
 14 Nov 2022 08:19:54  INFO logger - RESPONSE INFO
@@ -2572,7 +2572,7 @@
 14 Nov 2022 08:27:27  INFO logger - ===============================================
 14 Nov 2022 08:27:31  INFO logger - REQUEST INFO
 14 Nov 2022 08:27:31  INFO logger - Request type: POST
-14 Nov 2022 08:27:31  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 08:27:31  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 08:27:31  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 08:27:31  INFO logger - -----------------------------------------------
 14 Nov 2022 08:27:31  INFO logger - RESPONSE INFO
@@ -2612,7 +2612,7 @@
 14 Nov 2022 08:27:32  INFO logger - ===============================================
 14 Nov 2022 08:27:32  INFO logger - REQUEST INFO
 14 Nov 2022 08:27:32  INFO logger - Request type: POST
-14 Nov 2022 08:27:32  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 08:27:32  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 08:27:32  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 08:27:32  INFO logger - -----------------------------------------------
 14 Nov 2022 08:27:32  INFO logger - RESPONSE INFO
@@ -2657,7 +2657,7 @@
 14 Nov 2022 20:16:29  INFO logger - ===============================================
 14 Nov 2022 20:16:34  INFO logger - REQUEST INFO
 14 Nov 2022 20:16:34  INFO logger - Request type: POST
-14 Nov 2022 20:16:34  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 20:16:34  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 20:16:34  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 20:16:34  INFO logger - -----------------------------------------------
 14 Nov 2022 20:16:34  INFO logger - RESPONSE INFO
@@ -2697,7 +2697,7 @@
 14 Nov 2022 20:16:35  INFO logger - ===============================================
 14 Nov 2022 20:16:36  INFO logger - REQUEST INFO
 14 Nov 2022 20:16:36  INFO logger - Request type: POST
-14 Nov 2022 20:16:36  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 20:16:36  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 20:16:36  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 20:16:36  INFO logger - -----------------------------------------------
 14 Nov 2022 20:16:36  INFO logger - RESPONSE INFO
@@ -2742,7 +2742,7 @@
 14 Nov 2022 21:40:14  INFO logger - ===============================================
 14 Nov 2022 21:40:19  INFO logger - REQUEST INFO
 14 Nov 2022 21:40:19  INFO logger - Request type: POST
-14 Nov 2022 21:40:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 21:40:19  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 21:40:19  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 21:40:19  INFO logger - -----------------------------------------------
 14 Nov 2022 21:40:19  INFO logger - RESPONSE INFO
@@ -2782,7 +2782,7 @@
 14 Nov 2022 21:40:19  INFO logger - ===============================================
 14 Nov 2022 21:40:20  INFO logger - REQUEST INFO
 14 Nov 2022 21:40:20  INFO logger - Request type: POST
-14 Nov 2022 21:40:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+14 Nov 2022 21:40:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 14 Nov 2022 21:40:20  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 14 Nov 2022 21:40:20  INFO logger - -----------------------------------------------
 14 Nov 2022 21:40:20  INFO logger - RESPONSE INFO
@@ -2827,7 +2827,7 @@
 15 Nov 2022 10:23:58  INFO logger - ===============================================
 15 Nov 2022 10:24:03  INFO logger - REQUEST INFO
 15 Nov 2022 10:24:03  INFO logger - Request type: POST
-15 Nov 2022 10:24:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+15 Nov 2022 10:24:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 15 Nov 2022 10:24:03  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 15 Nov 2022 10:24:03  INFO logger - -----------------------------------------------
 15 Nov 2022 10:24:03  INFO logger - RESPONSE INFO
@@ -2867,7 +2867,7 @@
 15 Nov 2022 10:24:04  INFO logger - ===============================================
 15 Nov 2022 10:24:04  INFO logger - REQUEST INFO
 15 Nov 2022 10:24:04  INFO logger - Request type: POST
-15 Nov 2022 10:24:04  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+15 Nov 2022 10:24:04  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 15 Nov 2022 10:24:04  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 15 Nov 2022 10:24:04  INFO logger - -----------------------------------------------
 15 Nov 2022 10:24:04  INFO logger - RESPONSE INFO
@@ -2912,7 +2912,7 @@
 15 Nov 2022 13:40:15  INFO logger - ===============================================
 15 Nov 2022 13:40:20  INFO logger - REQUEST INFO
 15 Nov 2022 13:40:20  INFO logger - Request type: POST
-15 Nov 2022 13:40:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+15 Nov 2022 13:40:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 15 Nov 2022 13:40:20  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 15 Nov 2022 13:40:20  INFO logger - -----------------------------------------------
 15 Nov 2022 13:40:20  INFO logger - RESPONSE INFO
@@ -2952,7 +2952,7 @@
 15 Nov 2022 13:40:21  INFO logger - ===============================================
 15 Nov 2022 13:40:21  INFO logger - REQUEST INFO
 15 Nov 2022 13:40:21  INFO logger - Request type: POST
-15 Nov 2022 13:40:21  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+15 Nov 2022 13:40:21  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
 15 Nov 2022 13:40:21  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
 15 Nov 2022 13:40:21  INFO logger - -----------------------------------------------
 15 Nov 2022 13:40:21  INFO logger - RESPONSE INFO
@@ -2992,3 +2992,535 @@
 15 Nov 2022 13:40:22  INFO logger - Response body contains Variants
 15 Nov 2022 13:40:22  INFO logger - Response body contains UpdatedAt
 15 Nov 2022 13:40:22  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:12:37  INFO logger - ===============================================
+16 Nov 2022 15:12:37  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 15:12:37  INFO logger - ===============================================
+16 Nov 2022 15:12:43  INFO logger - REQUEST INFO
+16 Nov 2022 15:12:43  INFO logger - Request type: POST
+16 Nov 2022 15:12:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
+16 Nov 2022 15:12:43  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 15:12:43  INFO logger - -----------------------------------------------
+16 Nov 2022 15:12:43  INFO logger - RESPONSE INFO
+16 Nov 2022 15:12:43  INFO logger - Status code is: 200
+16 Nov 2022 15:12:43  INFO logger - Response body contains AccessToken
+16 Nov 2022 15:12:43  INFO logger - Response body contains RefreshToken
+16 Nov 2022 15:12:43  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:12:43  INFO logger - ===============================================
+16 Nov 2022 15:12:43  INFO logger - Rest API Test of Create Product
+16 Nov 2022 15:12:43  INFO logger - ===============================================
+16 Nov 2022 15:12:43  INFO logger - REQUEST INFO
+16 Nov 2022 15:12:43  INFO logger - Request type: POST
+16 Nov 2022 15:12:43  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/product
+16 Nov 2022 15:12:43  INFO logger - Request body: {"name":"Becak","subCategoryID":5,"basePrice":25000}
+16 Nov 2022 15:12:43  INFO logger - -----------------------------------------------
+16 Nov 2022 15:12:43  INFO logger - RESPONSE INFO
+16 Nov 2022 15:12:43  INFO logger - Status code is: 201
+16 Nov 2022 15:12:43  INFO logger - Response body contains Data
+16 Nov 2022 15:12:43  INFO logger - Response body contains Message
+16 Nov 2022 15:12:43  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:12:43  INFO logger - ===============================================
+16 Nov 2022 15:12:43  INFO logger - Rest API Test of Find Product by ID
+16 Nov 2022 15:12:43  INFO logger - ===============================================
+16 Nov 2022 15:12:43  INFO logger - Product ID: 57
+16 Nov 2022 15:12:44  INFO logger - REQUEST INFO
+16 Nov 2022 15:12:44  INFO logger - Request type: GET
+16 Nov 2022 15:12:44  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/product/57
+16 Nov 2022 15:12:44  INFO logger - -----------------------------------------------
+16 Nov 2022 15:12:44  INFO logger - RESPONSE INFO
+16 Nov 2022 15:12:44  INFO logger - Status code is: 200
+16 Nov 2022 15:12:44  INFO logger - Response body contains ID
+16 Nov 2022 15:12:44  INFO logger - Response body contains Code
+16 Nov 2022 15:12:44  INFO logger - Response body contains Name
+16 Nov 2022 15:12:44  INFO logger - Response body contains Category
+16 Nov 2022 15:12:44  INFO logger - Response body contains BasePrice
+16 Nov 2022 15:12:44  INFO logger - Response body contains LastUpdatedBy
+16 Nov 2022 15:12:44  INFO logger - Response body contains Variants
+16 Nov 2022 15:12:44  INFO logger - Response body contains UpdatedAt
+16 Nov 2022 15:12:44  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:12:57  INFO logger - ===============================================
+16 Nov 2022 15:12:57  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 15:12:57  INFO logger - ===============================================
+16 Nov 2022 15:13:02  INFO logger - REQUEST INFO
+16 Nov 2022 15:13:02  INFO logger - Request type: POST
+16 Nov 2022 15:13:02  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
+16 Nov 2022 15:13:02  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 15:13:02  INFO logger - -----------------------------------------------
+16 Nov 2022 15:13:02  INFO logger - RESPONSE INFO
+16 Nov 2022 15:13:02  INFO logger - Status code is: 200
+16 Nov 2022 15:13:02  INFO logger - Response body contains AccessToken
+16 Nov 2022 15:13:02  INFO logger - Response body contains RefreshToken
+16 Nov 2022 15:13:02  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:13:02  INFO logger - ===============================================
+16 Nov 2022 15:13:02  INFO logger - Rest API Test of Create Partner
+16 Nov 2022 15:13:02  INFO logger - ===============================================
+16 Nov 2022 15:13:02  INFO logger - REQUEST INFO
+16 Nov 2022 15:13:02  INFO logger - Request type: POST
+16 Nov 2022 15:13:02  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/partner
+16 Nov 2022 15:13:02  INFO logger - Request body: {"ownerPhoneNumber":"857888888888","notes":"test notes","preferredSuppliers":["supplier 1","supplier 2","supplier 3"],"hamlet":"1","provinceID":8,"partnershipStatus":2,"merchantName":"test merchantName","fleetsOwned":1,"districtID":1835,"ownerName":"test ownerName","neighbourhood":"2","supplierPaymentMethods":["cash"],"merchantOperatingYears":2,"address":"test address","monthlyGmv":10000000,"numberOfActiveCustomer":1,"merchantsOwned":2,"featuredProducts":["pupuk","bibit","alat tani"],"subDistrictID":24572,"numberOfEmployees":10,"ownerBankAccountNumber":"1234567891011121","customerPaymentMethods":1,"businessLegalityStatus":1,"cityRegencyID":140,"merchantBuildingOwnershipStatus":1,"merchantFacadeImage":"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3\/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ\/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e\/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b\/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC\/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V\/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO\/Mn\/m8R+h6rYSUb3ekokRY6f\/YukArN979jcW+V\/S8g0eT\/N3VN3kTqWbQ428m9\/8k0P\/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc\/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4\/MNCFwg59oWVeYhkzgN\/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW\/n+uMPFiRwHB2I7ih8ciHFxIkd\/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3\/zMDz8usXC3ddaHBj1GHj\/As08fwTS7Kt1HBTmyN29vdwAw+\/wbwLVOJ3uAD1wi\/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII=","businessType":1,"warehousesOwned":1}
+16 Nov 2022 15:13:02  INFO logger - -----------------------------------------------
+16 Nov 2022 15:13:02  INFO logger - RESPONSE INFO
+16 Nov 2022 15:13:02  INFO logger - Status code is: 201
+16 Nov 2022 15:13:02  INFO logger - Response body contains Data
+16 Nov 2022 15:13:02  INFO logger - Response body contains Message
+16 Nov 2022 15:13:02  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:13:02  INFO logger - ===============================================
+16 Nov 2022 15:13:02  INFO logger - Rest API Test of Find Partner by ID
+16 Nov 2022 15:13:02  INFO logger - ===============================================
+16 Nov 2022 15:13:02  INFO logger - Product ID: 60
+16 Nov 2022 15:13:03  INFO logger - REQUEST INFO
+16 Nov 2022 15:13:03  INFO logger - Request type: GET
+16 Nov 2022 15:13:03  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/partner/60
+16 Nov 2022 15:13:03  INFO logger - -----------------------------------------------
+16 Nov 2022 15:13:03  INFO logger - RESPONSE INFO
+16 Nov 2022 15:13:03  INFO logger - Status code is: 200
+16 Nov 2022 15:13:03  INFO logger - Response body contains OwnerName
+16 Nov 2022 15:13:03  INFO logger - Response body contains WarehousesOwned
+16 Nov 2022 15:13:03  INFO logger - Response body contains FeaturedProducts
+16 Nov 2022 15:13:03  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:50:05  INFO logger - ===============================================
+16 Nov 2022 15:50:05  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 15:50:05  INFO logger - ===============================================
+16 Nov 2022 15:50:12  INFO logger - REQUEST INFO
+16 Nov 2022 15:50:12  INFO logger - Request type: POST
+16 Nov 2022 15:50:12  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/retailLogin
+16 Nov 2022 15:50:12  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 15:50:12  INFO logger - -----------------------------------------------
+16 Nov 2022 15:50:12  INFO logger - RESPONSE INFO
+16 Nov 2022 15:52:22  INFO logger - ===============================================
+16 Nov 2022 15:52:22  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 15:52:22  INFO logger - ===============================================
+16 Nov 2022 15:52:29  INFO logger - REQUEST INFO
+16 Nov 2022 15:52:29  INFO logger - Request type: POST
+16 Nov 2022 15:52:29  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/retailLogin
+16 Nov 2022 15:52:29  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 15:52:29  INFO logger - -----------------------------------------------
+16 Nov 2022 15:52:29  INFO logger - RESPONSE INFO
+16 Nov 2022 15:54:19  INFO logger - ===============================================
+16 Nov 2022 15:54:19  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 15:54:19  INFO logger - ===============================================
+16 Nov 2022 15:54:24  INFO logger - REQUEST INFO
+16 Nov 2022 15:54:24  INFO logger - Request type: POST
+16 Nov 2022 15:54:24  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 15:54:24  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 15:54:24  INFO logger - -----------------------------------------------
+16 Nov 2022 15:54:24  INFO logger - RESPONSE INFO
+16 Nov 2022 15:54:24  INFO logger - Status code is: 200
+16 Nov 2022 15:54:24  INFO logger - Response body contains token
+16 Nov 2022 15:54:24  INFO logger - Response body contains expire_in
+16 Nov 2022 15:54:24  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 15:55:06  INFO logger - ===============================================
+16 Nov 2022 15:55:06  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 15:55:06  INFO logger - ===============================================
+16 Nov 2022 15:55:11  INFO logger - REQUEST INFO
+16 Nov 2022 15:55:11  INFO logger - Request type: POST
+16 Nov 2022 15:55:11  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 15:55:11  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 15:55:11  INFO logger - -----------------------------------------------
+16 Nov 2022 15:55:11  INFO logger - RESPONSE INFO
+16 Nov 2022 15:55:11  INFO logger - Status code is: 200
+16 Nov 2022 15:55:11  INFO logger - Response body contains token
+16 Nov 2022 15:55:11  INFO logger - Response body contains expire_in
+16 Nov 2022 15:55:11  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 16:39:31  INFO logger - ===============================================
+16 Nov 2022 16:39:31  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:39:31  INFO logger - ===============================================
+16 Nov 2022 16:39:37  INFO logger - REQUEST INFO
+16 Nov 2022 16:39:37  INFO logger - Request type: POST
+16 Nov 2022 16:39:37  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:39:37  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:39:37  INFO logger - -----------------------------------------------
+16 Nov 2022 16:39:37  INFO logger - RESPONSE INFO
+16 Nov 2022 16:39:37  INFO logger - Status code is: 200
+16 Nov 2022 16:42:49  INFO logger - ===============================================
+16 Nov 2022 16:42:49  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:42:49  INFO logger - ===============================================
+16 Nov 2022 16:42:54  INFO logger - REQUEST INFO
+16 Nov 2022 16:42:54  INFO logger - Request type: POST
+16 Nov 2022 16:42:54  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:42:54  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:42:54  INFO logger - -----------------------------------------------
+16 Nov 2022 16:42:54  INFO logger - RESPONSE INFO
+16 Nov 2022 16:42:54  INFO logger - Status code is: 200
+16 Nov 2022 16:44:00  INFO logger - ===============================================
+16 Nov 2022 16:44:00  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:44:00  INFO logger - ===============================================
+16 Nov 2022 16:44:05  INFO logger - REQUEST INFO
+16 Nov 2022 16:44:05  INFO logger - Request type: POST
+16 Nov 2022 16:44:05  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:44:05  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:44:05  INFO logger - -----------------------------------------------
+16 Nov 2022 16:44:05  INFO logger - RESPONSE INFO
+16 Nov 2022 16:44:05  INFO logger - Status code is: 200
+16 Nov 2022 16:46:11  INFO logger - ===============================================
+16 Nov 2022 16:46:11  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:46:11  INFO logger - ===============================================
+16 Nov 2022 16:46:16  INFO logger - REQUEST INFO
+16 Nov 2022 16:46:16  INFO logger - Request type: POST
+16 Nov 2022 16:46:16  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:46:16  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:46:16  INFO logger - -----------------------------------------------
+16 Nov 2022 16:46:16  INFO logger - RESPONSE INFO
+16 Nov 2022 16:46:16  INFO logger - Status code is: 200
+16 Nov 2022 16:47:26  INFO logger - ===============================================
+16 Nov 2022 16:47:26  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:47:26  INFO logger - ===============================================
+16 Nov 2022 16:47:31  INFO logger - REQUEST INFO
+16 Nov 2022 16:47:31  INFO logger - Request type: POST
+16 Nov 2022 16:47:31  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:47:31  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:47:31  INFO logger - -----------------------------------------------
+16 Nov 2022 16:47:31  INFO logger - RESPONSE INFO
+16 Nov 2022 16:47:31  INFO logger - Status code is: 200
+16 Nov 2022 16:51:26  INFO logger - ===============================================
+16 Nov 2022 16:51:26  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:51:26  INFO logger - ===============================================
+16 Nov 2022 16:51:33  INFO logger - REQUEST INFO
+16 Nov 2022 16:51:33  INFO logger - Request type: POST
+16 Nov 2022 16:51:33  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:51:33  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:51:33  INFO logger - -----------------------------------------------
+16 Nov 2022 16:51:33  INFO logger - RESPONSE INFO
+16 Nov 2022 16:51:33  INFO logger - Status code is: 200
+16 Nov 2022 16:52:31  INFO logger - ===============================================
+16 Nov 2022 16:52:31  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:52:31  INFO logger - ===============================================
+16 Nov 2022 16:52:36  INFO logger - REQUEST INFO
+16 Nov 2022 16:52:36  INFO logger - Request type: POST
+16 Nov 2022 16:52:36  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:52:36  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:52:36  INFO logger - -----------------------------------------------
+16 Nov 2022 16:52:36  INFO logger - RESPONSE INFO
+16 Nov 2022 16:52:36  INFO logger - Status code is: 200
+16 Nov 2022 16:53:47  INFO logger - ===============================================
+16 Nov 2022 16:53:47  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:53:47  INFO logger - ===============================================
+16 Nov 2022 16:53:52  INFO logger - REQUEST INFO
+16 Nov 2022 16:53:52  INFO logger - Request type: POST
+16 Nov 2022 16:53:52  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:53:52  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:53:52  INFO logger - -----------------------------------------------
+16 Nov 2022 16:53:52  INFO logger - RESPONSE INFO
+16 Nov 2022 16:53:52  INFO logger - Status code is: 200
+16 Nov 2022 16:53:53  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 16:56:40  INFO logger - ===============================================
+16 Nov 2022 16:56:40  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:56:40  INFO logger - ===============================================
+16 Nov 2022 16:56:46  INFO logger - REQUEST INFO
+16 Nov 2022 16:56:46  INFO logger - Request type: POST
+16 Nov 2022 16:56:46  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:56:46  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:56:46  INFO logger - -----------------------------------------------
+16 Nov 2022 16:56:46  INFO logger - RESPONSE INFO
+16 Nov 2022 16:56:46  INFO logger - Status code is: 200
+16 Nov 2022 16:57:53  INFO logger - ===============================================
+16 Nov 2022 16:57:53  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:57:53  INFO logger - ===============================================
+16 Nov 2022 16:57:58  INFO logger - REQUEST INFO
+16 Nov 2022 16:57:58  INFO logger - Request type: POST
+16 Nov 2022 16:57:58  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:57:58  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:57:58  INFO logger - -----------------------------------------------
+16 Nov 2022 16:57:58  INFO logger - RESPONSE INFO
+16 Nov 2022 16:57:58  INFO logger - Status code is: 200
+16 Nov 2022 16:57:59  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 16:58:11  INFO logger - ===============================================
+16 Nov 2022 16:58:11  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:58:11  INFO logger - ===============================================
+16 Nov 2022 16:58:16  INFO logger - REQUEST INFO
+16 Nov 2022 16:58:16  INFO logger - Request type: POST
+16 Nov 2022 16:58:16  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:58:16  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:58:16  INFO logger - -----------------------------------------------
+16 Nov 2022 16:58:16  INFO logger - RESPONSE INFO
+16 Nov 2022 16:58:16  INFO logger - Status code is: 200
+16 Nov 2022 16:58:26  INFO logger - ===============================================
+16 Nov 2022 16:58:26  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 16:58:26  INFO logger - ===============================================
+16 Nov 2022 16:58:32  INFO logger - REQUEST INFO
+16 Nov 2022 16:58:32  INFO logger - Request type: POST
+16 Nov 2022 16:58:32  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 16:58:32  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 16:58:32  INFO logger - -----------------------------------------------
+16 Nov 2022 16:58:32  INFO logger - RESPONSE INFO
+16 Nov 2022 16:58:32  INFO logger - Status code is: 200
+16 Nov 2022 16:58:32  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:00:20  INFO logger - ===============================================
+16 Nov 2022 17:00:20  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:00:20  INFO logger - ===============================================
+16 Nov 2022 17:00:25  INFO logger - REQUEST INFO
+16 Nov 2022 17:00:25  INFO logger - Request type: POST
+16 Nov 2022 17:00:25  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 17:00:25  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 17:00:25  INFO logger - -----------------------------------------------
+16 Nov 2022 17:00:25  INFO logger - RESPONSE INFO
+16 Nov 2022 17:00:25  INFO logger - Status code is: 200
+16 Nov 2022 17:00:25  INFO logger - Response body schema is correct
+16 Nov 2022 17:00:25  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:02:20  INFO logger - ===============================================
+16 Nov 2022 17:02:20  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:02:20  INFO logger - ===============================================
+16 Nov 2022 17:02:25  INFO logger - REQUEST INFO
+16 Nov 2022 17:02:25  INFO logger - Request type: POST
+16 Nov 2022 17:02:25  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 17:02:25  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 17:02:25  INFO logger - -----------------------------------------------
+16 Nov 2022 17:02:25  INFO logger - RESPONSE INFO
+16 Nov 2022 17:02:25  INFO logger - Status code is: 200
+16 Nov 2022 17:03:04  INFO logger - ===============================================
+16 Nov 2022 17:03:04  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:03:04  INFO logger - ===============================================
+16 Nov 2022 17:03:11  INFO logger - REQUEST INFO
+16 Nov 2022 17:03:11  INFO logger - Request type: POST
+16 Nov 2022 17:03:11  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 17:03:11  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 17:03:11  INFO logger - -----------------------------------------------
+16 Nov 2022 17:03:11  INFO logger - RESPONSE INFO
+16 Nov 2022 17:03:11  INFO logger - Status code is: 200
+16 Nov 2022 17:03:11  INFO logger - Response body schema is correct
+16 Nov 2022 17:03:11  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:24:07  INFO logger - ===============================================
+16 Nov 2022 17:24:07  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:24:07  INFO logger - ===============================================
+16 Nov 2022 17:24:13  INFO logger - REQUEST INFO
+16 Nov 2022 17:24:13  INFO logger - Request type: POST
+16 Nov 2022 17:24:13  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
+16 Nov 2022 17:24:13  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:24:13  INFO logger - -----------------------------------------------
+16 Nov 2022 17:24:13  INFO logger - RESPONSE INFO
+16 Nov 2022 17:24:13  INFO logger - ===============================================
+16 Nov 2022 17:24:13  INFO logger - Rest API Test of Create Partner
+16 Nov 2022 17:24:13  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - Rest API Test of Find Partner by ID
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - Product ID: 60
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - REQUEST INFO
+16 Nov 2022 17:24:14  INFO logger - Request type: POST
+16 Nov 2022 17:24:14  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
+16 Nov 2022 17:24:14  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:24:14  INFO logger - -----------------------------------------------
+16 Nov 2022 17:24:14  INFO logger - RESPONSE INFO
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - Rest API Test of Create Product
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - Rest API Test of Find Product by ID
+16 Nov 2022 17:24:14  INFO logger - ===============================================
+16 Nov 2022 17:24:14  INFO logger - Product ID: 57
+16 Nov 2022 17:25:15  INFO logger - ===============================================
+16 Nov 2022 17:25:15  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:25:15  INFO logger - ===============================================
+16 Nov 2022 17:25:20  INFO logger - REQUEST INFO
+16 Nov 2022 17:25:20  INFO logger - Request type: POST
+16 Nov 2022 17:25:20  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
+16 Nov 2022 17:25:20  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:25:20  INFO logger - -----------------------------------------------
+16 Nov 2022 17:25:20  INFO logger - RESPONSE INFO
+16 Nov 2022 17:25:20  INFO logger - ===============================================
+16 Nov 2022 17:25:20  INFO logger - Rest API Test of Create Partner
+16 Nov 2022 17:25:20  INFO logger - ===============================================
+16 Nov 2022 17:25:20  INFO logger - ===============================================
+16 Nov 2022 17:25:20  INFO logger - Rest API Test of Find Partner by ID
+16 Nov 2022 17:25:20  INFO logger - ===============================================
+16 Nov 2022 17:25:20  INFO logger - Product ID: 60
+16 Nov 2022 17:25:20  INFO logger - ===============================================
+16 Nov 2022 17:25:20  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:25:20  INFO logger - ===============================================
+16 Nov 2022 17:25:21  INFO logger - REQUEST INFO
+16 Nov 2022 17:25:21  INFO logger - Request type: POST
+16 Nov 2022 17:25:21  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/retailLogin
+16 Nov 2022 17:25:21  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:25:21  INFO logger - -----------------------------------------------
+16 Nov 2022 17:25:21  INFO logger - RESPONSE INFO
+16 Nov 2022 17:25:21  INFO logger - ===============================================
+16 Nov 2022 17:25:21  INFO logger - Rest API Test of Create Product
+16 Nov 2022 17:25:21  INFO logger - ===============================================
+16 Nov 2022 17:25:21  INFO logger - ===============================================
+16 Nov 2022 17:25:21  INFO logger - Rest API Test of Find Product by ID
+16 Nov 2022 17:25:21  INFO logger - ===============================================
+16 Nov 2022 17:25:21  INFO logger - Product ID: 57
+16 Nov 2022 17:26:22  INFO logger - ===============================================
+16 Nov 2022 17:26:22  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:26:22  INFO logger - ===============================================
+16 Nov 2022 17:26:27  INFO logger - REQUEST INFO
+16 Nov 2022 17:26:27  INFO logger - Request type: POST
+16 Nov 2022 17:26:27  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+16 Nov 2022 17:26:27  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:26:27  INFO logger - -----------------------------------------------
+16 Nov 2022 17:26:27  INFO logger - RESPONSE INFO
+16 Nov 2022 17:26:27  INFO logger - Status code is: 200
+16 Nov 2022 17:26:27  INFO logger - Response body contains AccessToken
+16 Nov 2022 17:26:27  INFO logger - Response body contains RefreshToken
+16 Nov 2022 17:26:27  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:26:27  INFO logger - ===============================================
+16 Nov 2022 17:26:27  INFO logger - Rest API Test of Create Partner
+16 Nov 2022 17:26:27  INFO logger - ===============================================
+16 Nov 2022 17:26:28  INFO logger - REQUEST INFO
+16 Nov 2022 17:26:28  INFO logger - Request type: POST
+16 Nov 2022 17:26:28  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/partner
+16 Nov 2022 17:26:28  INFO logger - Request body: {"ownerPhoneNumber":"857888888888","notes":"test notes","preferredSuppliers":["supplier 1","supplier 2","supplier 3"],"hamlet":"1","provinceID":8,"partnershipStatus":2,"merchantName":"test merchantName","fleetsOwned":1,"districtID":1835,"ownerName":"test ownerName","neighbourhood":"2","supplierPaymentMethods":["cash"],"merchantOperatingYears":2,"address":"test address","monthlyGmv":10000000,"numberOfActiveCustomer":1,"merchantsOwned":2,"featuredProducts":["pupuk","bibit","alat tani"],"subDistrictID":24572,"numberOfEmployees":10,"ownerBankAccountNumber":"1234567891011121","customerPaymentMethods":1,"businessLegalityStatus":1,"cityRegencyID":140,"merchantBuildingOwnershipStatus":1,"merchantFacadeImage":"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3\/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ\/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e\/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b\/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC\/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V\/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO\/Mn\/m8R+h6rYSUb3ekokRY6f\/YukArN979jcW+V\/S8g0eT\/N3VN3kTqWbQ428m9\/8k0P\/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc\/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4\/MNCFwg59oWVeYhkzgN\/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW\/n+uMPFiRwHB2I7ih8ciHFxIkd\/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3\/zMDz8usXC3ddaHBj1GHj\/As08fwTS7Kt1HBTmyN29vdwAw+\/wbwLVOJ3uAD1wi\/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII=","businessType":1,"warehousesOwned":1}
+16 Nov 2022 17:26:28  INFO logger - -----------------------------------------------
+16 Nov 2022 17:26:28  INFO logger - RESPONSE INFO
+16 Nov 2022 17:26:28  INFO logger - Status code is: 201
+16 Nov 2022 17:26:28  INFO logger - Response body contains Data
+16 Nov 2022 17:26:28  INFO logger - Response body contains Message
+16 Nov 2022 17:26:28  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:26:28  INFO logger - ===============================================
+16 Nov 2022 17:26:28  INFO logger - Rest API Test of Find Partner by ID
+16 Nov 2022 17:26:28  INFO logger - ===============================================
+16 Nov 2022 17:26:28  INFO logger - Product ID: 63
+16 Nov 2022 17:26:28  INFO logger - REQUEST INFO
+16 Nov 2022 17:26:28  INFO logger - Request type: GET
+16 Nov 2022 17:26:28  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/partner/63
+16 Nov 2022 17:26:28  INFO logger - -----------------------------------------------
+16 Nov 2022 17:26:28  INFO logger - RESPONSE INFO
+16 Nov 2022 17:26:28  INFO logger - Status code is: 200
+16 Nov 2022 17:26:28  INFO logger - Response body contains OwnerName
+16 Nov 2022 17:26:28  INFO logger - Response body contains WarehousesOwned
+16 Nov 2022 17:26:28  INFO logger - Response body contains FeaturedProducts
+16 Nov 2022 17:26:28  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:26:28  INFO logger - ===============================================
+16 Nov 2022 17:26:28  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:26:28  INFO logger - ===============================================
+16 Nov 2022 17:26:29  INFO logger - REQUEST INFO
+16 Nov 2022 17:26:29  INFO logger - Request type: POST
+16 Nov 2022 17:26:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+16 Nov 2022 17:26:29  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:26:29  INFO logger - -----------------------------------------------
+16 Nov 2022 17:26:29  INFO logger - RESPONSE INFO
+16 Nov 2022 17:26:29  INFO logger - Status code is: 200
+16 Nov 2022 17:26:29  INFO logger - Response body contains AccessToken
+16 Nov 2022 17:26:29  INFO logger - Response body contains RefreshToken
+16 Nov 2022 17:26:29  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:26:29  INFO logger - ===============================================
+16 Nov 2022 17:26:29  INFO logger - Rest API Test of Create Product
+16 Nov 2022 17:26:29  INFO logger - ===============================================
+16 Nov 2022 17:26:29  INFO logger - REQUEST INFO
+16 Nov 2022 17:26:29  INFO logger - Request type: POST
+16 Nov 2022 17:26:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/product
+16 Nov 2022 17:26:29  INFO logger - Request body: {"name":"Becak","subCategoryID":5,"basePrice":25000}
+16 Nov 2022 17:26:29  INFO logger - -----------------------------------------------
+16 Nov 2022 17:26:29  INFO logger - RESPONSE INFO
+16 Nov 2022 17:26:29  INFO logger - Status code is: 201
+16 Nov 2022 17:26:29  INFO logger - Response body contains Data
+16 Nov 2022 17:26:29  INFO logger - Response body contains Message
+16 Nov 2022 17:26:29  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:26:29  INFO logger - ===============================================
+16 Nov 2022 17:26:29  INFO logger - Rest API Test of Find Product by ID
+16 Nov 2022 17:26:29  INFO logger - ===============================================
+16 Nov 2022 17:26:29  INFO logger - Product ID: 60
+16 Nov 2022 17:26:29  INFO logger - REQUEST INFO
+16 Nov 2022 17:26:29  INFO logger - Request type: GET
+16 Nov 2022 17:26:29  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/product/60
+16 Nov 2022 17:26:29  INFO logger - -----------------------------------------------
+16 Nov 2022 17:26:29  INFO logger - RESPONSE INFO
+16 Nov 2022 17:26:29  INFO logger - Status code is: 200
+16 Nov 2022 17:26:29  INFO logger - Response body contains ID
+16 Nov 2022 17:26:29  INFO logger - Response body contains Code
+16 Nov 2022 17:26:29  INFO logger - Response body contains Name
+16 Nov 2022 17:26:29  INFO logger - Response body contains Category
+16 Nov 2022 17:26:29  INFO logger - Response body contains BasePrice
+16 Nov 2022 17:26:29  INFO logger - Response body contains LastUpdatedBy
+16 Nov 2022 17:26:29  INFO logger - Response body contains Variants
+16 Nov 2022 17:26:29  INFO logger - Response body contains UpdatedAt
+16 Nov 2022 17:26:29  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:41  INFO logger - ===============================================
+16 Nov 2022 17:27:41  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:27:41  INFO logger - ===============================================
+16 Nov 2022 17:27:46  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:46  INFO logger - Request type: POST
+16 Nov 2022 17:27:46  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+16 Nov 2022 17:27:46  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:27:46  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:46  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:47  INFO logger - Status code is: 200
+16 Nov 2022 17:27:47  INFO logger - Response body contains AccessToken
+16 Nov 2022 17:27:47  INFO logger - Response body contains RefreshToken
+16 Nov 2022 17:27:47  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:47  INFO logger - ===============================================
+16 Nov 2022 17:27:47  INFO logger - Rest API Test of Create Partner
+16 Nov 2022 17:27:47  INFO logger - ===============================================
+16 Nov 2022 17:27:47  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:47  INFO logger - Request type: POST
+16 Nov 2022 17:27:47  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/partner
+16 Nov 2022 17:27:47  INFO logger - Request body: {"ownerPhoneNumber":"857888888888","notes":"test notes","preferredSuppliers":["supplier 1","supplier 2","supplier 3"],"hamlet":"1","provinceID":8,"partnershipStatus":2,"merchantName":"test merchantName","fleetsOwned":1,"districtID":1835,"ownerName":"test ownerName","neighbourhood":"2","supplierPaymentMethods":["cash"],"merchantOperatingYears":2,"address":"test address","monthlyGmv":10000000,"numberOfActiveCustomer":1,"merchantsOwned":2,"featuredProducts":["pupuk","bibit","alat tani"],"subDistrictID":24572,"numberOfEmployees":10,"ownerBankAccountNumber":"1234567891011121","customerPaymentMethods":1,"businessLegalityStatus":1,"cityRegencyID":140,"merchantBuildingOwnershipStatus":1,"merchantFacadeImage":"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3\/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ\/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e\/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b\/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC\/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V\/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO\/Mn\/m8R+h6rYSUb3ekokRY6f\/YukArN979jcW+V\/S8g0eT\/N3VN3kTqWbQ428m9\/8k0P\/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc\/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4\/MNCFwg59oWVeYhkzgN\/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW\/n+uMPFiRwHB2I7ih8ciHFxIkd\/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3\/zMDz8usXC3ddaHBj1GHj\/As08fwTS7Kt1HBTmyN29vdwAw+\/wbwLVOJ3uAD1wi\/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII=","businessType":1,"warehousesOwned":1}
+16 Nov 2022 17:27:47  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:47  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:47  INFO logger - Status code is: 201
+16 Nov 2022 17:27:47  INFO logger - Response body contains Data
+16 Nov 2022 17:27:47  INFO logger - Response body contains Message
+16 Nov 2022 17:27:47  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:47  INFO logger - ===============================================
+16 Nov 2022 17:27:47  INFO logger - Rest API Test of Find Partner by ID
+16 Nov 2022 17:27:47  INFO logger - ===============================================
+16 Nov 2022 17:27:47  INFO logger - Product ID: 64
+16 Nov 2022 17:27:47  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:47  INFO logger - Request type: GET
+16 Nov 2022 17:27:47  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/partner/64
+16 Nov 2022 17:27:47  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:47  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:47  INFO logger - Status code is: 200
+16 Nov 2022 17:27:47  INFO logger - Response body contains OwnerName
+16 Nov 2022 17:27:47  INFO logger - Response body contains WarehousesOwned
+16 Nov 2022 17:27:47  INFO logger - Response body contains FeaturedProducts
+16 Nov 2022 17:27:47  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:47  INFO logger - ===============================================
+16 Nov 2022 17:27:47  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:27:47  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:48  INFO logger - Request type: POST
+16 Nov 2022 17:27:48  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/auth/login
+16 Nov 2022 17:27:48  INFO logger - Request body: {"password":"gokomodosupersekali888","email":"super.admin@gokomodo.com"}
+16 Nov 2022 17:27:48  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:48  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:48  INFO logger - Status code is: 200
+16 Nov 2022 17:27:48  INFO logger - Response body contains AccessToken
+16 Nov 2022 17:27:48  INFO logger - Response body contains RefreshToken
+16 Nov 2022 17:27:48  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:48  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - Rest API Test of Create Product
+16 Nov 2022 17:27:48  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:48  INFO logger - Request type: POST
+16 Nov 2022 17:27:48  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/product
+16 Nov 2022 17:27:48  INFO logger - Request body: {"name":"Becak","subCategoryID":5,"basePrice":25000}
+16 Nov 2022 17:27:48  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:48  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:48  INFO logger - Status code is: 201
+16 Nov 2022 17:27:48  INFO logger - Response body contains Data
+16 Nov 2022 17:27:48  INFO logger - Response body contains Message
+16 Nov 2022 17:27:48  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:48  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - Rest API Test of Find Product by ID
+16 Nov 2022 17:27:48  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - Product ID: 61
+16 Nov 2022 17:27:48  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:48  INFO logger - Request type: GET
+16 Nov 2022 17:27:48  INFO logger - URI: https://api-stg-retail-jaya.gokomodo.co/v1/product/61
+16 Nov 2022 17:27:48  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:48  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:48  INFO logger - Status code is: 200
+16 Nov 2022 17:27:48  INFO logger - Response body contains ID
+16 Nov 2022 17:27:48  INFO logger - Response body contains Code
+16 Nov 2022 17:27:48  INFO logger - Response body contains Name
+16 Nov 2022 17:27:48  INFO logger - Response body contains Category
+16 Nov 2022 17:27:48  INFO logger - Response body contains BasePrice
+16 Nov 2022 17:27:48  INFO logger - Response body contains LastUpdatedBy
+16 Nov 2022 17:27:48  INFO logger - Response body contains Variants
+16 Nov 2022 17:27:48  INFO logger - Response body contains UpdatedAt
+16 Nov 2022 17:27:48  INFO logger - Content type is: application/json; charset=UTF-8
+16 Nov 2022 17:27:48  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - Rest API Test of Login Authentication
+16 Nov 2022 17:27:48  INFO logger - ===============================================
+16 Nov 2022 17:27:48  INFO logger - REQUEST INFO
+16 Nov 2022 17:27:48  INFO logger - Request type: POST
+16 Nov 2022 17:27:48  INFO logger - URI: https://dev.gokomodo.co/v1/api/auth/login
+16 Nov 2022 17:27:48  INFO logger - Request body: {"password":"MjkzOTg0NjIyYzA2MTFlY2IyODkwN2Q5NzkwYzQzMTU=","api_key":"167988b82c0611ecb76e0ba25a240646"}
+16 Nov 2022 17:27:48  INFO logger - -----------------------------------------------
+16 Nov 2022 17:27:48  INFO logger - RESPONSE INFO
+16 Nov 2022 17:27:48  INFO logger - Status code is: 200
+16 Nov 2022 17:27:49  INFO logger - Response body schema is correct
+16 Nov 2022 17:27:49  INFO logger - Content type is: application/json; charset=UTF-8
