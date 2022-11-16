@@ -39,6 +39,8 @@ jobs:
         uses: futureware-tech/simulator-action@v2
         with:
           model: 'iPhone 13'
+      - run: |
+          mvn clean test -Dsurefire.suiteXmlFiles=testng_web.xml,testng_rest.xml,testng_ios.xml
 
       - name: Setup AVD and run test
         uses: reactivecircus/android-emulator-runner@v2 # install and create the Emulator
@@ -48,5 +50,5 @@ jobs:
           arch: x86_64
           profile: pixel_4
           target: google_apis
-          script: mvn clean test
+          script: mvn clean test -Dsurefire.suiteXmlFiles=testng_android.xml
 
