@@ -36,7 +36,8 @@ jobs:
 
       - uses: futureware-tech/simulator-action@v2
         with:
-          model: 'iPhone 12'
+          model: 'iPhone 13'
+          os_version: '15.5'
 
       - name: Run Tests
         uses: reactivecircus/android-emulator-runner@v2 # install and create the Emulator
@@ -46,5 +47,8 @@ jobs:
           arch: x86_64
           profile: pixel_4
           target: google_apis
-          script: mvn clean test
+
+      - name: Build with Maven
+        run: |
+          mvn clean test
 
