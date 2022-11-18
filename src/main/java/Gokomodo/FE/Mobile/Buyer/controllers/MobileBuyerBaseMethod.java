@@ -89,6 +89,7 @@ public class MobileBuyerBaseMethod {
             url = new URL(MobileBuyerInitMethod.GetAppiumUrl);
             switch (platformName) {
                 case "Android":
+                    desiredCapabilities.setCapability(AndroidMobileCapabilityType.AVD, deviceName);
                     desiredCapabilities.setCapability(AndroidMobileCapabilityType.IS_HEADLESS, GetAndroidHeadless);
                     desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, GetAndroidAutomationName);
                     desiredCapabilities.setCapability(AndroidMobileCapabilityType.ANDROID_INSTALL_TIMEOUT, "600000");

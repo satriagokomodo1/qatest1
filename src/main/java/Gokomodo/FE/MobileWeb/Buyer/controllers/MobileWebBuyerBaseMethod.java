@@ -88,6 +88,7 @@ public class MobileWebBuyerBaseMethod{
             url = new URL(GetAppiumUrl);
             switch (platformName) {
                 case "Android":
+                    desiredCapabilities.setCapability(AndroidMobileCapabilityType.AVD, deviceName);
                     desiredCapabilities.setCapability(AndroidMobileCapabilityType.IS_HEADLESS, GetAndroidHeadless);
                     desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, GetAndroidAutomationName);
                     desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Chrome");

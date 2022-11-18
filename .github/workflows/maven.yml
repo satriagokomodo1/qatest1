@@ -47,7 +47,6 @@ jobs:
         with:
           api-level: ${{ matrix.api-level }}
           avd-name: Android_Emulator
-          arch: x86_64
           profile: pixel_4
           target: google_apis
           script: mvn clean test -Dsurefire.suiteXmlFiles=testng_android.xml
