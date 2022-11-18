@@ -93,6 +93,8 @@ public class MobileSellerBaseMethod {
                     break;
 
                 case "iOS":
+                    desiredCapabilities.setCapability(XCUITestOptions.WDA_LAUNCH_TIMEOUT_OPTION, "300000");
+                    desiredCapabilities.setCapability(XCUITestOptions.WDA_CONNECTION_TIMEOUT_OPTION, "1000000");
                     desiredCapabilities.setCapability(XCUITestOptions.IS_HEADLESS_OPTION,GetIOSHeadless);
                     desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, GetIOSAutomationName);
                     desiredCapabilities.setCapability(IOSMobileCapabilityType.BUNDLE_ID, GetIOSSellerBundleId);
